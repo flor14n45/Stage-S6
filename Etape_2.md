@@ -1,0 +1,1 @@
+sudo apt install lsb-release ca-certificates apt-transport-https software-properties-common wget gnupg2
